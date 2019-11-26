@@ -1,5 +1,5 @@
 {
     "prefix" : "!",
-    "server" : "irc.priv8.jp",
-    "channel" : "#1111"
+    "server" : "irc server",
+    "channel" : "irc channel"
 }
