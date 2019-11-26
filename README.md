@@ -4,10 +4,10 @@
 
 #Install all dependecies
 
-apt-get install screen
-apt-get install nodejs
-npm init
-npm install irc
+apt-get install screen &&
+apt-get install nodejs &&
+npm init &&
+npm install irc &&
 npm install child_process
 
 #Run bot
